@@ -5,6 +5,8 @@ body {
 
 .wrapper {
   text-align: center;
+  background-color: #34495e;
+  color: white;
 }
 
 h1, h2 {
