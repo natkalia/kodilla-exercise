@@ -1,0 +1,16 @@
+#Autoprefixer#
+##short version:##
+autoprefixer-cli -o style.prefixed.css style.css
+
+##version in command line:##
+node-modules/.bin/autoprefixer-cli -o style.prefixed.css style.css
+
+#Nu-HTML-Checker#
+##short version:##
+nu-html-checker *.html
+##version in command line:##
+nu-html-checker *.html
+
+
+
+
